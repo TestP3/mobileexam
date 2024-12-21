@@ -1,0 +1,5 @@
+com\nttdata\screens\LoginScreen.class
+com\nttdata\runners\RunnerTest.class
+com\nttdata\screens\BaseScreen.class
+com\nttdata\screens\CartScreen.class
+com\nttdata\screens\ProductScreen.class
